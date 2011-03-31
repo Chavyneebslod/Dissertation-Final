@@ -1,0 +1,4 @@
+# This file plots number of epoch against
+# mean set error. Seperate directories have
+# seperate files.
+5	0.05

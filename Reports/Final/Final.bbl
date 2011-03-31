@@ -1,0 +1,202 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{BKMT75}
+
+\bibitem[AKG11]{complexityZoo}
+Scott Aaronson, Greg Kuperberg, and Christopher Granade.
+\newblock Complexity zoo, 2007-2011.
+
+\bibitem[ALM{\etalchar{+}}98]{PCP1}
+Sanjeev Arora, Carsten Lund, Rajeev Motwani, Madhu Sudan, and Mario Szegedy.
+\newblock Proof verification and the hardness of approximation problems.
+\newblock {\em J. ACM}, 45:501--555, May 1998.
+
+\bibitem[AS98]{PCP2}
+Sanjeev Arora and Shmuel Safra.
+\newblock Probabilistic checking of proofs: a new characterization of np.
+\newblock {\em J. ACM}, 45:70--122, January 1998.
+
+\bibitem[BG93]{buss:560}
+Jonathan~F. Buss and Judy Goldsmith.
+\newblock Nondeterminism within $p^ * $.
+\newblock {\em SIAM Journal on Computing}, 22(3):560--572, 1993.
+
+\bibitem[BKMT75]{citeulike:Karp}
+Ronald~V. Book, Richard~M. Karp, Raymond~E. Miller, and James~W. Thatcher.
+\newblock Reducibility among combinatorial problems.
+\newblock {\em The Journal of Symbolic Logic}, 40(4):618+, December 1975.
+
+\bibitem[BP97]{BAL97a}
+S.~Baluja and D.~A. Pomerleau.
+\newblock Expectation-based selective attention for visual monitoring and
+  control of a robot vehicle.
+\newblock {\em Robotics and Autonomous Systems}, pages 329--344, December 1997.
+
+\bibitem[BR93]{NPanns}
+Avrim Blum and Ronald Rivest.
+\newblock Training a 3-node neural network is np-complete.
+\newblock In Stephen Hanson, Werner Remmele, and Ronald Rivest, editors, {\em
+  Machine Learning: From Theory to Applications}, volume 661 of {\em Lecture
+  Notes in Computer Science}, pages 9--28. Springer Berlin / Heidelberg, 1993.
+\newblock 10.1007/3-540-56483-7\_20.
+
+\bibitem[BTW96]{Borrett96adaptiveconstraint}
+J.~E. Borrett, E.~P.~K. Tsang, and N.~R. Walsh.
+\newblock Adaptive constraint satisfaction.
+\newblock In {\em WORKSHOP OF THE UK PLANNING AND SCHEDULING}, 1996.
+
+\bibitem[BYE81]{YE}
+R.~Bar-Yehuda and S.~Even.
+\newblock A linear-time approximation algorithm for the weighted vertex cover
+  problem.
+\newblock {\em Journal of Algorithms}, 2(2):198 -- 203, 1981.
+
+\bibitem[Chi96]{Chickering96lns}
+David~M. Chickering.
+\newblock Learning {Bayesian} networks is {NP}-{Complete}.
+\newblock In D.~Fisher and H.~Lenz, editors, {\em Learning from Data:
+  Artificial Intelligence and Statistics V}, pages 121--130. Springer-Verlag,
+  1996.
+
+\bibitem[Chu36]{Chu36a}
+A.~Church.
+\newblock {An unsolvable problem of elementary number theory}.
+\newblock {\em The American Journal Of Mathematics}, 58:345--363, 1936.
+
+\bibitem[CL90]{Cascade-correlation}
+Scott~Fahlman Christian and Christian Lebiere.
+\newblock The cascade-correlation learning architecture.
+\newblock In {\em Advances in Neural Information Processing Systems 2}, pages
+  524--532. Morgan Kaufmann, 1990.
+
+\bibitem[Coo71]{citeulike:Cook}
+Stephen~A. Cook.
+\newblock The complexity of theorem-proving procedures.
+\newblock In {\em STOC '71: Proceedings of the third annual ACM symposium on
+  Theory of computing}, pages 151--158, New York, NY, USA, 1971. ACM.
+
+\bibitem[Cra92]{queens}
+Kelly~D. Crawford.
+\newblock Solving the n-queens problem using genetic algorithms.
+\newblock In {\em SAC '92: Proceedings of the 1992 ACM/SIGAPP symposium on
+  Applied computing}, pages 1039--1047, New York, NY, USA, 1992. ACM.
+
+\bibitem[CT10]{stocks}
+Chee~Yong Chai and Shakirah~Mohd Taib.
+\newblock Hybrid stock investment strategy decision support system.
+\newblock In Sio-Iong Ao, Burghard Rieger, and Mahyar~A. Amouzegar, editors,
+  {\em Machine Learning and Systems Engineering}, volume~68 of {\em Lecture
+  Notes in Electrical Engineering}, pages 481--493. Springer Netherlands, 2010.
+\newblock 10.1007/978-90-481-9419-3\_37.
+
+\bibitem[Din06]{PCP3}
+Irit Dinur.
+\newblock The {PCP} theorem by gap amplification.
+\newblock In {\em Proc. 38th ACM Symp. on Theory of Computing}, pages 241--250,
+  2006.
+
+\bibitem[Doj06]{noNPBayes}
+Norbert Dojer.
+\newblock Learning bayesian networks does not have to be np-hard.
+\newblock In Rastislav Královic and Pawel Urzyczyn, editors, {\em Mathematical
+  Foundations of Computer Science 2006}, volume 4162 of {\em Lecture Notes in
+  Computer Science}, pages 305--314. Springer Berlin / Heidelberg, 2006.
+\newblock 10.1007/11821069\_27.
+
+\bibitem[DS05]{SafDinur}
+{Dinur, Irit} and {Safra, Samuel}.
+\newblock {On the Hardness of Approximating Minimum Vertex Cover}, 2005.
+
+\bibitem[EK72]{Ed-Karp}
+Jack Edmonds and Richard~M. Karp.
+\newblock Theoretical improvements in algorithmic efficiency for network flow
+  problems.
+\newblock {\em J. ACM}, 19:248--264, April 1972.
+
+\bibitem[EVP72]{nukes}
+I.~Ya. Emel'yanov, V.~V. Voskoboinikov, and V.~P. Perfil'ev.
+\newblock Automation of nuclear power plants and discrete power drives.
+\newblock {\em Atomic Energy}, 33:848--852, 1972.
+\newblock 10.1007/BF01214530.
+
+\bibitem[Fah88]{Fahlman88anempirical}
+Scott~E. Fahlman.
+\newblock An empirical study of learning speed in back-propagation networks.
+\newblock Technical report, 1988.
+
+\bibitem[FHH{\etalchar{+}}09]{paper:hybrid}
+Tobias Friedrich, Jun He, Nils Hebbinghaus, Frank Neumann, and Carsten Witt.
+\newblock Analyses of simple hybrid algorithms for the vertex cover problem*.
+\newblock {\em Evol. Comput.}, 17(1):3--19, 2009.
+
+\bibitem[GCF]{Gallardo_solvingweighted}
+José~E. Gallardo, Carlos Cotta, and Antonio~J. Fernández.
+\newblock Solving weighted constraint satisfaction problems with memetic/exact
+  hybrid algorithms.
+
+\bibitem[Kar05]{Krak}
+George Karakostas.
+\newblock A better approximation ratio for the vertex cover problem.
+\newblock pages 1043--1050, 2005.
+
+\bibitem[KGV83]{simAnneal}
+S.~Kirkpatrick, C.~D. Gelatt, and M.~P. Vecchi.
+\newblock {Optimization by Simulated Annealing}.
+\newblock {\em Science}, 220(4598):671--680, May 1983.
+
+\bibitem[Kho02]{Khot}
+Subhash Khot.
+\newblock On the power of unique 2-prover 1-round games.
+\newblock In {\em Proceedings of the thiry-fourth annual ACM symposium on
+  Theory of computing}, STOC '02, pages 767--775, New York, NY, USA, 2002. ACM.
+
+\bibitem[Kho05]{KhotSurvey}
+Subhash Khot.
+\newblock On the unique games conjecture, 2005.
+
+\bibitem[Ler10]{website:quantum}
+Eric~J. Lerner.
+\newblock A quantum leap for computing, 2010.
+
+\bibitem[LLH{\etalchar{+}}03]{citeulike:NASA}
+Jason~D. Lohn, Derek~S. Linden, Gregory~S. Hornby, William~F. Kraus, and
+  Adaan~R. Arroyo.
+\newblock Evolutionary design of an x-band antenna for nasa's space technology
+  5 mission.
+\newblock In {\em EH '03: Proceedings of the 2003 NASA/DoD Conference on
+  Evolvable Hardware}, Washington, DC, USA, 2003. IEEE Computer Society.
+
+\bibitem[Mit97]{Mitchell.97}
+Tom~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill Science/Engineering/Math, 1 edition, March 1997.
+
+\bibitem[O�05]{PCPLec}
+Ryan O’Donnell.
+\newblock The pcp theorem and hardness of approximation, 2005.
+
+\bibitem[PA88]{Peterson88neuralnetworks}
+C~Peterson and J~R Anderson.
+\newblock Neural networks and np-complete optimization problems� a
+  performance study on the graph bisection problem.
+\newblock {\em Complex Syst}, (2):59--89, 1988.
+
+\bibitem[PS89]{Peterson89anew}
+Carsten Peterson and Bo~Söderberg.
+\newblock A new method for mapping optimization problems onto neural networks.
+\newblock {\em International Journal of Neural Systems}, 1:3--22, 1989.
+
+\bibitem[Sip05]{Sipser:2005}
+Michael Sipser.
+\newblock {\em Introduction to the Theory of Computation}.
+\newblock Course Technology, 2 edition, February 2005.
+
+\bibitem[XBHL05]{citeulike:XuSimple}
+Ke~Xu, Frederic Boussemart, Fred Hemery, and Christophe Lecoutre.
+\newblock A simple model to generate hard satisfiable instances, Sep 2005.
+
+\bibitem[XL06]{Xu:Transitions}
+Ke~Xu and Wei Li.
+\newblock Many hard examples in exact phase transitions.
+\newblock {\em Theor. Comput. Sci.}, 355(3):291--302, 2006.
+
+\end{thebibliography}

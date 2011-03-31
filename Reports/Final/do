@@ -1,0 +1,10 @@
+#!/bin/bash
+
+latex  Final.tex
+echo "***************** First Pass ***************************"
+bibtex Final
+echo "***************** Bibtex Pass ***************************"
+latex  Final.tex
+latex  Final.tex
+dvipdf Final.dvi
+evince Final.pdf

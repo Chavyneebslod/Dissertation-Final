@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="joe" company="dfgdg" webLink="" view-date="2010-08-23" view-index="0" gantt-divider-location="316" resource-divider-location="301" version="2.0">
+    <description/>
+    <view zooming-state="default:7" id="gantt-chart"/>
+    <view id="resource-table">
+        <field id="0" name="Name" width="55" order="0"/>
+        <field id="1" name="Default role" width="44" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <calendar id="1" name="default">
+                <default-week sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+                <overriden-day-types/>
+                <days/>
+            </calendar>
+        </day-types>
+    </calendars>
+    <tasks color="#8cb6ce">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="1" name="Find Topic and Supervisor" color="#8cb6ce" meeting="false" start="2010-09-15" duration="5" complete="0" priority="1" expand="true"/>
+        <task id="3" name="Familiarise self with topic" color="#8cb6ce" meeting="false" start="2010-09-22" duration="5" complete="0" priority="1" expand="true"/>
+        <task id="7" name="Draft Requirements Document" color="#8cb6ce" meeting="false" start="2010-09-27" duration="29" complete="0" priority="1" expand="true"/>
+        <task id="4" name="Finalise and Hand in Requitements Document" color="#8cb6ce" meeting="false" start="2010-11-01" duration="20" complete="0" priority="1" expand="true"/>
+        <task id="8" name="Deliverable 1 Handed in" color="#8cb6ce" meeting="true" start="2010-11-29" duration="5" complete="0" priority="1" expand="true"/>
+        <task id="5" name="Code and Evaluate " color="#8cb6ce" meeting="false" start="2010-09-23" duration="85" complete="0" priority="1" expand="true"/>
+        <task id="6" name="Draft and Refine Final Deliverable" color="#8cb6ce" meeting="false" start="2011-01-03" duration="54" complete="0" priority="1" expand="true"/>
+        <task id="9" name="Finalise and Hand in Dissertation" color="#8cb6ce" meeting="false" start="2011-03-10" duration="15" complete="0" priority="1" expand="true"/>
+        <task id="10" name="Hand in Dissertation" color="#8cb6ce" meeting="true" start="2011-03-31" duration="1" complete="0" priority="1" expand="true"/>
+        <task id="11" name="Create Poster" color="#8cb6ce" meeting="false" start="2011-04-01" duration="9" complete="0" priority="1" expand="true"/>
+        <task id="12" name="Poster Session" color="#8cb6ce" meeting="true" start="2011-04-15" duration="1" complete="0" priority="1" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <taskdisplaycolumns>
+        <displaycolumn property-id="tpd3" order="0" width="173"/>
+        <displaycolumn property-id="tpd4" order="1" width="68"/>
+        <displaycolumn property-id="tpd5" order="2" width="68"/>
+    </taskdisplaycolumns>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

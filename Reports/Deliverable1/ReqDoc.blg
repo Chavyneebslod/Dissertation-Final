@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: ReqDoc.aux
+The style file: alpha.bst
+Database file #1: citation.bib
+Warning--entry type for "citeulike:XuSimple" isn't style-file defined
+--line 20 of file citation.bib
+I was expecting a `,' or a `}'---line 319 of file citation.bib
+ :     
+ :     url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.8684}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in Krak
+You've used 19 entries,
+            2543 wiz_defined-function locations,
+            698 strings with 7627 characters,
+and the built_in function-call counts, 8223 in all, are:
+= -- 832
+> -- 362
+< -- 15
++ -- 124
+- -- 119
+* -- 576
+:= -- 1306
+add.period$ -- 63
+call.type$ -- 19
+change.case$ -- 118
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 340
+empty$ -- 615
+format.name$ -- 143
+if$ -- 1734
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 100
+num.names$ -- 61
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 137
+quote$ -- 0
+skip$ -- 295
+stack$ -- 0
+substring$ -- 477
+swap$ -- 79
+text.length$ -- 15
+text.prefix$ -- 7
+top$ -- 0
+type$ -- 144
+warning$ -- 1
+while$ -- 78
+width$ -- 23
+write$ -- 257
+(There was 1 error message)

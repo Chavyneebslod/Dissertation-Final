@@ -1,0 +1,92 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Statement of objective}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Definition of NP}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Why NP problems are intractable}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}NP--completeness}{7}{subsection.1.4}
+\contentsline {section}{\numberline {2}Objectives}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Problem}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Methods}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Greedy algorithms}{9}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Artificial neural networks}{9}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Hybridisation}{10}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Criteria}{10}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Accuracy}{10}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Time}{11}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}The data}{11}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}The elephant in the room}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}Discussion of technical literature}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Existing algorithms}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Annotated bibliography of relevant technical literature}{13}{subsection.3.2}
+\contentsline {section}{\numberline {4}The graph}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Asymptotic analysis}{16}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Vertex (un)marking}{16}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Vertex visiting and retrieving unmarked edges}{16}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Calculating the cluster coefficient}{17}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Storage}{17}{subsection.4.2}
+\contentsline {section}{\numberline {5}Test case generation framework}{18}{section.5}
+\contentsline {subsection}{\numberline {5.1}The training and testing data}{19}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Creating statistic datasets}{19}{subsection.5.2}
+\contentsline {section}{\numberline {6}Greedy algorithms}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}The base algorithm}{21}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Some improvements}{21}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Resulting algorithms}{23}{subsubsection.6.2.1}
+\contentsline {subsection}{\numberline {6.3}Testing and analysis}{24}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}First set}{24}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Second set}{25}{subsubsection.6.3.2}
+\contentsline {subsection}{\numberline {6.4}Aggregate results}{25}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Asymptotic time analysis}{27}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Base algorithm}{27}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}Preprocessing algorithm}{28}{subsubsection.6.5.2}
+\contentsline {subsubsection}{\numberline {6.5.3}Post-processing algorithm}{28}{subsubsection.6.5.3}
+\contentsline {subsubsection}{\numberline {6.5.4}Putting it all together}{28}{subsubsection.6.5.4}
+\contentsline {section}{\numberline {7}Artificial neural networks}{29}{section.7}
+\contentsline {subsection}{\numberline {7.1}Framework architecture}{29}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Calculations and training functions}{30}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}ANN instance design}{31}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Feature selection}{31}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Instance topology}{32}{subsubsection.7.2.2}
+\contentsline {subsection}{\numberline {7.3}Training}{32}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Running the network}{34}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}Vertex-wise processing results}{34}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}Edge-wise processing results}{35}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}Discussion and plots}{35}{subsubsection.7.4.3}
+\contentsline {subsection}{\numberline {7.5}Asymptotic analysis}{37}{subsection.7.5}
+\contentsline {paragraph}{Vertex-wise processing:}{38}{section*.2}
+\contentsline {paragraph}{Edge-wise processing:}{38}{section*.3}
+\contentsline {subsection}{\numberline {7.6}Improvements}{38}{subsection.7.6}
+\contentsline {section}{\numberline {8}Hybridisation}{38}{section.8}
+\contentsline {subsection}{\numberline {8.1}The algorithm}{39}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Running}{39}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Asymptotic analysis}{40}{subsection.8.3}
+\contentsline {section}{\numberline {9}Discussion and conclusions}{40}{section.9}
+\contentsline {subsection}{\numberline {9.1}The unique games conjecture}{41}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Training of the ANN}{41}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Different models}{42}{subsubsection.9.2.1}
+\contentsline {subsection}{\numberline {9.3}Literature review retrospective}{43}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Further work}{43}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Personal reflection}{43}{subsection.9.5}
+\contentsline {section}{\numberline {A}Disc contents and how to use them}{45}{section.A}
+\contentsline {subsection}{\numberline {A.1}Methods of obtaining the code}{45}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Installing}{45}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Running the code}{45}{subsection.A.3}
+\contentsline {subsubsection}{\numberline {A.3.1}ANN commands}{46}{subsubsection.A.3.1}
+\contentsline {paragraph}{proofOfConcept:}{46}{section*.4}
+\contentsline {paragraph}{createANN $<$save name$>$:}{46}{section*.5}
+\contentsline {paragraph}{displayANN $<$save name$>$:}{46}{section*.6}
+\contentsline {subsubsection}{\numberline {A.3.2}Training commands}{46}{subsubsection.A.3.2}
+\contentsline {paragraph}{train $<$starting ANN$>$ $<$save file$>$ $<$DIRECTORY of graphs$>$:}{46}{section*.7}
+\contentsline {paragraph}{test $<$starting ANN$>$ $<$save file$>$ $<$DIRECTORY of graphs$>$:}{47}{section*.8}
+\contentsline {paragraph}{cover $<$starting ANN$>$ $<$save file$>$ $<$DIRECTORY of graphs$>$:}{47}{section*.9}
+\contentsline {subsubsection}{\numberline {A.3.3}Other single commands}{47}{subsubsection.A.3.3}
+\contentsline {paragraph}{generate $<$n$>$ $<$alpha$>$ $<$p$>$ $<$r$>$ $<$save file$>$:}{47}{section*.10}
+\contentsline {paragraph}{convert $<$DIMACS Graph$>$:}{47}{section*.11}
+\contentsline {paragraph}{runHybrid $<$graph file$>$:}{47}{section*.12}
+\contentsline {paragraph}{runGreedy $<$algoNumber [1 .. 4]$>$ $<$graph file$>$:}{47}{section*.13}
+\contentsline {section}{\numberline {B}A brief primer in artificial neural networks}{47}{section.B}
+\contentsline {subsection}{\numberline {B.1}Structure}{47}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Computing the output}{48}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Calculating the error}{49}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Backpropagation}{50}{subsection.B.4}
+\contentsline {subsection}{\numberline {B.5}Classification}{51}{subsection.B.5}
+\contentsline {section}{\numberline {C}The PCP theorem}{52}{section.C}
+\contentsline {section}{\numberline {D}Dataset plots}{53}{section.D}

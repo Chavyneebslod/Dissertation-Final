@@ -1,0 +1,7 @@
+#!/bin/bash
+
+FILE="edgeProc.data"
+
+for x in $(cat $FILE | grep [5-9]); do
+  echo $x
+done

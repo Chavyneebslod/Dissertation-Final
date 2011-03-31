@@ -1,0 +1,10 @@
+#!/bin/bash
+
+latex  ReqDoc.tex
+echo "***************** First Pass ***************************"
+bibtex ReqDoc
+echo "***************** Bibtex Pass ***************************"
+latex  ReqDoc.tex
+latex  ReqDoc.tex
+dvipdf ReqDoc.dvi
+evince ReqDoc.pdf

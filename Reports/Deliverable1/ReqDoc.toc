@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Definition of NP}{3}
+\contentsline {subsection}{\numberline {1.2}Why NP problems are intractable}{4}
+\contentsline {subsection}{\numberline {1.3}NP--completeness}{5}
+\contentsline {section}{\numberline {2}Project objectives}{5}
+\contentsline {subsection}{\numberline {2.1}Strategies}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}Greedy algorithms}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Machine learning}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}Graph preprocessing}{6}
+\contentsline {subsection}{\numberline {2.2}Problem selected}{7}
+\contentsline {section}{\numberline {3}Discussion of technical literature}{7}
+\contentsline {subsection}{\numberline {3.1}Existing algorithms}{7}
+\contentsline {subsection}{\numberline {3.2}Annotated bibliography of relevant technical literature}{8}
+\contentsline {section}{\numberline {4}System requirements}{10}
+\contentsline {section}{\numberline {5}Initial system design}{11}
+\contentsline {subsection}{\numberline {5.1}Existing data structure}{11}
+\contentsline {subsection}{\numberline {5.2}Existing algorithm}{12}
+\contentsline {subsection}{\numberline {5.3}Planned improvements}{12}
+\contentsline {section}{\numberline {6}Testing strategies}{13}
+\contentsline {section}{\numberline {7}Year timetable}{14}

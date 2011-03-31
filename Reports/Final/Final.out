@@ -1,0 +1,80 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [2][-]{subsection.1.1}{Statement of objective}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Definition of NP}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Why NP problems are intractable}{section.1}
+\BOOKMARK [2][-]{subsection.1.4}{NP--completeness}{section.1}
+\BOOKMARK [1][-]{section.2}{Objectives}{}
+\BOOKMARK [2][-]{subsection.2.1}{Problem}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Methods}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Greedy algorithms}{subsection.2.2}
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Artificial neural networks}{subsection.2.2}
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Hybridisation}{subsection.2.2}
+\BOOKMARK [2][-]{subsection.2.3}{Criteria}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Accuracy}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Time}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.3}{The data}{subsection.2.3}
+\BOOKMARK [2][-]{subsection.2.4}{The elephant in the room}{section.2}
+\BOOKMARK [1][-]{section.3}{Discussion of technical literature}{}
+\BOOKMARK [2][-]{subsection.3.1}{Existing algorithms}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Annotated bibliography of relevant technical literature}{section.3}
+\BOOKMARK [1][-]{section.4}{The graph}{}
+\BOOKMARK [2][-]{subsection.4.1}{Asymptotic analysis}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Vertex \(un\)marking}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Vertex visiting and retrieving unmarked edges}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Calculating the cluster coefficient}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Storage}{section.4}
+\BOOKMARK [1][-]{section.5}{Test case generation framework}{}
+\BOOKMARK [2][-]{subsection.5.1}{The training and testing data}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Creating statistic datasets}{section.5}
+\BOOKMARK [1][-]{section.6}{Greedy algorithms}{}
+\BOOKMARK [2][-]{subsection.6.1}{The base algorithm}{section.6}
+\BOOKMARK [2][-]{subsection.6.2}{Some improvements}{section.6}
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Resulting algorithms}{subsection.6.2}
+\BOOKMARK [2][-]{subsection.6.3}{Testing and analysis}{section.6}
+\BOOKMARK [3][-]{subsubsection.6.3.1}{First set}{subsection.6.3}
+\BOOKMARK [3][-]{subsubsection.6.3.2}{Second set}{subsection.6.3}
+\BOOKMARK [2][-]{subsection.6.4}{Aggregate results}{section.6}
+\BOOKMARK [2][-]{subsection.6.5}{Asymptotic time analysis}{section.6}
+\BOOKMARK [3][-]{subsubsection.6.5.1}{Base algorithm}{subsection.6.5}
+\BOOKMARK [3][-]{subsubsection.6.5.2}{Preprocessing algorithm}{subsection.6.5}
+\BOOKMARK [3][-]{subsubsection.6.5.3}{Post-processing algorithm}{subsection.6.5}
+\BOOKMARK [3][-]{subsubsection.6.5.4}{Putting it all together}{subsection.6.5}
+\BOOKMARK [1][-]{section.7}{Artificial neural networks}{}
+\BOOKMARK [2][-]{subsection.7.1}{Framework architecture}{section.7}
+\BOOKMARK [3][-]{subsubsection.7.1.1}{Calculations and training functions}{subsection.7.1}
+\BOOKMARK [2][-]{subsection.7.2}{ANN instance design}{section.7}
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Feature selection}{subsection.7.2}
+\BOOKMARK [3][-]{subsubsection.7.2.2}{Instance topology}{subsection.7.2}
+\BOOKMARK [2][-]{subsection.7.3}{Training}{section.7}
+\BOOKMARK [2][-]{subsection.7.4}{Running the network}{section.7}
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Vertex-wise processing results}{subsection.7.4}
+\BOOKMARK [3][-]{subsubsection.7.4.2}{Edge-wise processing results}{subsection.7.4}
+\BOOKMARK [3][-]{subsubsection.7.4.3}{Discussion and plots}{subsection.7.4}
+\BOOKMARK [2][-]{subsection.7.5}{Asymptotic analysis}{section.7}
+\BOOKMARK [2][-]{subsection.7.6}{Improvements}{section.7}
+\BOOKMARK [1][-]{section.8}{Hybridisation}{}
+\BOOKMARK [2][-]{subsection.8.1}{The algorithm}{section.8}
+\BOOKMARK [2][-]{subsection.8.2}{Running}{section.8}
+\BOOKMARK [2][-]{subsection.8.3}{Asymptotic analysis}{section.8}
+\BOOKMARK [1][-]{section.9}{Discussion and conclusions}{}
+\BOOKMARK [2][-]{subsection.9.1}{The unique games conjecture}{section.9}
+\BOOKMARK [2][-]{subsection.9.2}{Training of the ANN}{section.9}
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Different models}{subsection.9.2}
+\BOOKMARK [2][-]{subsection.9.3}{Literature review retrospective}{section.9}
+\BOOKMARK [2][-]{subsection.9.4}{Further work}{section.9}
+\BOOKMARK [2][-]{subsection.9.5}{Personal reflection}{section.9}
+\BOOKMARK [1][-]{section.A}{Disc contents and how to use them}{}
+\BOOKMARK [2][-]{subsection.A.1}{Methods of obtaining the code}{section.A}
+\BOOKMARK [2][-]{subsection.A.2}{Installing}{section.A}
+\BOOKMARK [2][-]{subsection.A.3}{Running the code}{section.A}
+\BOOKMARK [3][-]{subsubsection.A.3.1}{ANN commands}{subsection.A.3}
+\BOOKMARK [3][-]{subsubsection.A.3.2}{Training commands}{subsection.A.3}
+\BOOKMARK [3][-]{subsubsection.A.3.3}{Other single commands}{subsection.A.3}
+\BOOKMARK [1][-]{section.B}{A brief primer in artificial neural networks}{}
+\BOOKMARK [2][-]{subsection.B.1}{Structure}{section.B}
+\BOOKMARK [2][-]{subsection.B.2}{Computing the output}{section.B}
+\BOOKMARK [2][-]{subsection.B.3}{Calculating the error}{section.B}
+\BOOKMARK [2][-]{subsection.B.4}{Backpropagation}{section.B}
+\BOOKMARK [2][-]{subsection.B.5}{Classification}{section.B}
+\BOOKMARK [1][-]{section.C}{The PCP theorem}{}
+\BOOKMARK [1][-]{section.D}{Dataset plots}{}
